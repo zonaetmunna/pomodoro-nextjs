@@ -4,21 +4,21 @@ import { AuthenticatedHeader } from "@/components/authenticated-header";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import {
-    Select,
-    SelectContent,
-    SelectItem,
-    SelectTrigger,
-    SelectValue,
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
 } from "@/components/ui/select";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Textarea } from "@/components/ui/textarea";
 import {
-    Check,
-    Clock,
-    Edit,
-    Plus,
-    Trash2,
-    X
+  Check,
+  Clock,
+  Edit,
+  Plus,
+  Trash2,
+  X
 } from "lucide-react";
 import { useEffect, useState } from "react";
 
